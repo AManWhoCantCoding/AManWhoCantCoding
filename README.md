@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Knight.png" width="100%"/>
+  <img src="./assets/Knight.png" width="50%"/>
 </p>
 
 <h1 align="center">Hi, I'm Tuấn 👋</h1>

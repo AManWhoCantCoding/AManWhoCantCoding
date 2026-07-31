@@ -1,5 +1,7 @@
 <!--
   🖼️ ẢNH BÌA / BANNER
+
+
   Cách 1 (đơn giản nhất): upload ảnh/GIF bạn thích lên repo (ví dụ thư mục "assets/banner.gif")
   rồi đổi src bên dưới thành: ./assets/banner.gif
 

@@ -1,15 +1,5 @@
-<!--
-  🖼️ ẢNH BÌA / BANNER
-
-
-  Cách 1 (đơn giản nhất): upload ảnh/GIF bạn thích lên repo (ví dụ thư mục "assets/banner.gif")
-  rồi đổi src bên dưới thành: ./assets/banner.gif
-
-  Cách 2 (banner động, không cần upload): dùng dịch vụ capsule-render, chỉ cần đổi text/màu
-  trong URL là ra ảnh động ngay, ví dụ mẫu bên dưới. Đổi "text=" và "color=" theo ý bạn.
--->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=200&section=header&text=Tuấn%20Ngô&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Backend%20/%20Frontend%20/%20Fullstack%20Developer&descSize=18&descAlignY=65" width="100%"/>
+  <img src="./assets/Knight.png" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Tuấn 👋</h1>

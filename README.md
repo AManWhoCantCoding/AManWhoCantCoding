@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Pixel RPG Campfire Beneath the Moon.png" width="50%"/>
+  <img src="./assets/Pixel RPG Campfire Beneath the Moon.png" width="70%"/>
 </p>
 <h1 align="center">Hi, I'm Tuấn 👋</h1>
 <p align="center">
